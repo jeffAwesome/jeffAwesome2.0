@@ -7,7 +7,6 @@
 $pad: 20px;
 
 .grid {
-  background: white;
   margin: 0 0 $pad 0;
 
   &:after {
@@ -25,6 +24,13 @@ $pad: 20px;
     padding-right: 0;
   }
 }
+[class*='l-left'] {
+  float: left;
+}
+[class*='l-right'] {
+  float: right;
+}
+
 .col-2-3 {
   width: 66.66%;
 }

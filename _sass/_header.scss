@@ -1,0 +1,40 @@
+#header {
+  background: #212121;
+  padding: 0;
+  padding: 0em calc(50% - 610px);
+}
+
+
+/* Header top */
+.header__top {
+  padding: 12px 20px;
+}
+
+/* Socal Links */
+
+.social-links {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.social-links li {
+  display: inline-block;
+  padding: 0 15px;
+}
+.social-links li:first-child {
+  padding-left: 0;
+}
+.social-links li:last-child {
+  padding-right: 0;
+}
+
+
+.social-links a {
+  color: #bf9f59;
+  font-size: 20px;
+}
+
+.social-links a:hover {
+  color: #fff;
+}
