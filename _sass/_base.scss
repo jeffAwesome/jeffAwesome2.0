@@ -3,6 +3,9 @@
 font-family: 'Montserrat', sans-serif;
 font-family: 'Libre Baskerville', serif;
 
+
+WIdth will be 1200... but after 1200 make sure to add 20 px of padding to left and right of containers in media queries
+
 */
 
 html {
@@ -15,6 +18,7 @@ html {
 /* Base Link */
 a {
   color: #bf9f59;
+  text-decoration: none;
 }
 
 a:hover {
@@ -89,4 +93,5 @@ h2.pageTitle {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
+  margin: 0 0 40px;
 }
