@@ -1,12 +1,11 @@
 
 <header id="header">
-    <div class="header__top grid">
-        <ul class="social-links l-right">
-            <li><a target="_blank" href="https://github.com/{{site.github_username}}"><i class="fa fa-github" aria-hidden="true"></i></a></li>
-            <li><a target="_blank" href="https://twitter.com/{{site.twitter_username}}"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-        </ul>
-    </div><!-- header__extra -->
-    <nav id="main-nav">
+    <ul class="social-links l-right">
+        <li><a target="_blank" href="https://github.com/{{site.github_username}}"><i class="fa fa-github" aria-hidden="true"></i></a></li>
+        <li><a target="_blank" href="https://twitter.com/{{site.twitter_username}}"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+    </ul
+    <nav id="main-nav" class="l-left">
+        <button id="trigger-overlay" type="button"><i class="fa fa-bars" aria-hidden="true"></i></button>
         <ul class="mainNav">
             <li><a href="#">Home</a></li>
             <li><a href="#">About</a></li>
@@ -19,4 +18,19 @@
 <div id="branding">
     <h2><a href="/"><img src="{{ site.url }}/assets/img/logo.jpg" alt="Jeff Richardson"</a></h2>
     <h3>I handcraft money making websites and software.</h3>
+</div>
+
+<!-- open/close -->
+<!-- open/close -->
+<div class="overlay overlay-hugeinc">
+    <button type="button" class="overlay-close">Close</button>
+    <nav>
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Work</a></li>
+            <li><a href="#">Clients</a></li>
+            <li><a href="#">Contact</a></li>
+        </ul>
+    </nav>
 </div>
