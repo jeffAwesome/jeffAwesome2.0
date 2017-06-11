@@ -60,16 +60,29 @@ p {
 
 /* Buttons */
 
-button, .btn {
+button, .btn,
+input[type="submit"]{
   background: #bf9f59;
   padding: 20px;
   text-align: center;
   display: block;
   border: 0;
+  color: #fff;
+  width: 100%;
+  display: block;
+  font-family: 'Montserrat', sans-serif;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 14px;
+  margin: 20px 0;
 }
 
 
 /* Form */
+label {
+  display: block;
+  padding: 10px 0 5px;
+}
 input[type="text"],
 input[type="email"],
 textarea {
@@ -78,6 +91,8 @@ textarea {
   color: #888;
   padding: 20px;
   border: 1px solid #dedede;
+  display: block;
+  width: 100%;
 }
 
 
