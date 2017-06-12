@@ -55,28 +55,32 @@
   padding: 0px 0 25px;
 }
 
-.tag__item {
+.tag__item,
+#tag-cloud a{
   display: inline-block;
   padding: 8px 10px;
-  margin-right: 8px;
+  margin: 5px 8px 5px 0;
   background: #bf9f59;
   color: #fff;
   text-transform: uppercase;
   font-family: 'Montserrat', sans-serif;
   text-align: center;
 }
-.tag__item:hover {
+.tag__item:hover,
+#tag-cloud a:hover{
   text-decoration: none;
   background: #212121;
   color: #fff;
 }
 
-.tag__item:before {
+.tag__item:before,
+#tag-cloud a:before{
   padding-right: 10px;
   font-size: 6px;
   padding-top: 5px;
 }
-.tag__item:after {
+.tag__item:after,
+#tag-cloud a:after{
   padding-left: 10px;
   font-size: 6px;
   padding-top: 5px;

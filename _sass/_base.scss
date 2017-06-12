@@ -138,7 +138,9 @@ h2.pageTitle {
 .sub-heading:before,
 .sub-heading:after,
 .tag__item:before,
-.tag__item:after {
+.tag__item:after,
+#tag-cloud a:before,
+#tag-cloud a:after{
   content: "\f111";
   font-family: fontAwesome;
   font-size: 8px;
@@ -147,12 +149,14 @@ h2.pageTitle {
 
 
 .sub-heading:before,
-.tag__item:before {
+.tag__item:before,
+#tag-cloud a:before {
   float: left;
 }
 
 .sub-heading:after,
-.tag__item:after {
+.tag__item:after,
+#tag-cloud a:after {
   float: right;
 }
 
