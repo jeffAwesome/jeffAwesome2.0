@@ -10,7 +10,11 @@ layout: post
 <div class="content-container grid">
     <div class="col-2-3">
         <div class="content post">
-
+            <div class="tag__list">
+                {% for tag in page.tags%}
+                <a class="tag__item" href="/tag/{{tag}}">{{ tag}}</a>
+                {% endfor %}
+            </div><!-- tag --list -->
             <h3 class="post__title">{{ page.title }}</h3>
             {{ content }}
         </div>

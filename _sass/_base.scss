@@ -81,6 +81,13 @@ input[type="submit"]{
   margin: 20px 0;
 }
 
+button:hover,
+.btn:hover,
+input[type="submit"]:hover {
+  background: #212121;
+  cursor: pointer;
+}
+
 
 /* Form */
 label {
@@ -128,7 +135,9 @@ h2.pageTitle {
 }
 
 .sub-heading:before,
-.sub-heading:after {
+.sub-heading:after,
+.tag__item:before,
+.tag__item:after {
   content: "\f111";
   font-family: fontAwesome;
   font-size: 8px;
@@ -136,11 +145,13 @@ h2.pageTitle {
 }
 
 
-.sub-heading:before {
+.sub-heading:before,
+.tag__item:before {
   float: left;
 }
 
-.sub-heading:after {
+.sub-heading:after,
+.tag__item:after {
   float: right;
 }
 
