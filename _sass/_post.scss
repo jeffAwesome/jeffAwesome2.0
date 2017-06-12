@@ -7,7 +7,17 @@
   width: 100%;
 }
 
+#home .post {
+  padding: 0 30px;
+}
 
+#home .post__single:nth-child(2):after{
+  content: ".";
+  display: block;
+  height: 0;
+  clear: both;
+  visibility: hidden;
+}
 
 /* Post */
 .post__title {
