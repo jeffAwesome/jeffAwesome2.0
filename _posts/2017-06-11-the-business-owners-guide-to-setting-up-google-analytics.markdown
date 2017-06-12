@@ -9,7 +9,7 @@ tags: ['Google Analytics', 'Business Owner']
 Why do i need google analytics?
 ================================
 
-f you’re a business owner and have a website its absolutely crucial to have analytics on your website.
+If you’re a business owner and have a website its absolutely crucial to have analytics on your website.
 **Are you losing out on potential new customers because they’re leaving your site immediately after visiting?**
 
 Google analytics can give you buckets of crucial information including:
