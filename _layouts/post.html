@@ -12,7 +12,7 @@ layout: post
         <div class="content post">
             <div class="tag__list">
                 {% for tag in page.tags%}
-                <a class="tag__item" href="/tag/{{tag}}">{{ tag}}</a>
+                <a class="tag__item" href="/tag/{{ tag | slugify: 'pretty' }}">{{ tag}}</a>
                 {% endfor %}
             </div><!-- tag --list -->
             <h3 class="post__title">{{ page.title }}</h3>
