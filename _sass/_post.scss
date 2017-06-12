@@ -14,7 +14,40 @@
   text-align: center;
   font-size: 24px;
   text-transform: uppercase;
+  color: #313131;
 }
+
+.post__single .post__title a {
+  color: #313131;
+}
+
+.post__single .post__title a:hover {
+  color: #bf9f59;
+  text-decoration: none;
+}
+
+.post__date {
+  font-size: 14px;
+  color: #888888;
+  font-style: italic;
+  text-align: center;
+
+}
+
+
+.post__read-more {
+  display: inline-block;
+  color: #bf9f59;
+  text-transform: uppercase;
+  font-family: 'Montserrat', sans-serif;
+  border: 1px solid #dedede;
+  padding: 15px 50px;
+  margin: 0 auto;
+  text-align: center;
+
+}
+
+/* Tags */
 
 
 .tag__list {
@@ -35,6 +68,7 @@
 .tag__item:hover {
   text-decoration: none;
   background: #212121;
+  color: #fff;
 }
 
 .tag__item:before {

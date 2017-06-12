@@ -16,6 +16,7 @@ layout: post
                 {% endfor %}
             </div><!-- tag --list -->
             <h3 class="post__title">{{ page.title }}</h3>
+            <p class="post__date">{{ page.date | date: "%B %-d %Y" }}</p>
             {{ content }}
         </div>
     </div>
