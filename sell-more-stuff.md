@@ -56,7 +56,7 @@ online.
         <input type="email" name="fields[email]" value="" />
     </div>
   <div>
-    <input type="submit" name="submit" value="Sign Up" data-drip-attribute="sign-up-button" />
+    <input type="submit" name="submit" value="Get My Free How To Sell More Online Email Course" data-drip-attribute="sign-up-button" />
   </div>
 </form>
 
