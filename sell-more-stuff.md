@@ -14,7 +14,6 @@ I may be old fashioned but paying for traffic just seemed...
 I ran several experiments. My $75 a day Adwords budgets yielded very
 little except for the dreaded bill.
 
-I've made all the mistakes you could make.
 
 Other people were having success, why wasn't I?
 ================================================
@@ -25,6 +24,8 @@ ready to buy.
 We've had clients with better websites, better products, better services
 losing out because they weren't using Adwords or weren't using it correctly.
 
+I've made all the mistakes you could make. Let me show you several key factors
+that can increase your performance immediately. 
 
 Will this email course really help my business?
 ================
