@@ -39,6 +39,10 @@ and they've turned to us to increase their performance month over month.
 
 
 
+Sign up below to join the **Free** email course on how to start selling more
+online.
+
+
 
 
 <form action="https://www.getdrip.com/forms/85356217/submissions" method="post" data-drip-embedded-form="85356217">
