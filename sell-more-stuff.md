@@ -9,7 +9,7 @@ I used to be terrified of paying for ads!
 =========================================
 
 I may be old fashioned but paying for traffic just seemed... 
-**__unnatural__**!.  
+**unnatural**!.  
 
 I ran several experiments. My $75 a day Adwords budgets yielded very
 little except for the dreaded bill.
