@@ -16,7 +16,7 @@ competition by using content strategy and Google Analytics.  The story about a b
 list of customers.
 
 
-**If this sounds impossible, its not… ** but you’ll need to learn about using Google Analytics to better
+**If this sounds impossible, I want to assure you IT'S NOT…** but you’ll need to learn about using Google Analytics to better
 understand how your potential customers are using your website.
 
 Todays post is going to start you on the journey to using Google Analytics to understand how to leverage Google Analytics
