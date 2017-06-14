@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Business Owners Guide To Setting Up Google Analytics"
-date:   2017-06-10 21:54:44 -0500
+date:   2017-06-11 21:54:44 -0500
 categories: blog
 tags: ['Google Analytics', 'Business Owner']
 ---
