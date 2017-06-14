@@ -20,7 +20,7 @@ Other people were having success, why wasn't I?
 
 
 Will this email course really help my business?
- =============
+================
 
 I already get enough email — do I really need more? 
 
