@@ -46,7 +46,6 @@ online.
 
 
 <form action="https://www.getdrip.com/forms/85356217/submissions" method="post" data-drip-embedded-form="85356217">
-  <h3 data-drip-attribute="headline">Sell More Stuff Online</h3>
   <div data-drip-attribute="description"></div>
     <div>
         <label for="fields[first_name]">First Name</label><br />
