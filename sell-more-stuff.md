@@ -1,8 +1,33 @@
 ---
 layout: page
-title: Sell More Stuff Online
+title: How To Get More Customers
 permalink: /sell-more-stuff-online/
 ---
+
+
+I used to be terrified of paying for ads!
+=========================================
+
+I may be old fashioned but paying for traffic just seemed... 
+**__unnatural__**!.  
+
+I ran several experiments. My $75 a day Adwords budgets yielded very
+little except for the dreaded bill.
+
+Other people were having success, why wasn't I?
+================================================
+
+
+
+Will this email course really help my business?
+ =============
+
+I already get enough email — do I really need more? 
+
+I've helped drive millions of qualified visitors to my clients
+through advertising and I'd like to share how to do that with you.
+
+
 
 
 
