@@ -7,9 +7,26 @@ layout: home
 <body id="home">
 {% include header.html %}
 
-<div class="contentContainer">
-    {{ content }}
-</div>
+<div class="content-container grid">
+    <div class="col-2-3">
+        <ul class="post">
+            {% for post in site.posts %}
+            <li class="content post__single">
+                {% include single-post.html %}
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+    <div class="col-1-3">
+        {% include sidebar.html %}
+        <div class="content">
+            <div id="tag-cloud">
+                <h3 class="sub-heading">Tags</h3>
+                {{ site | tag_cloud }}
+            </div>
+        </div>
+    </div>
+</div><!-- content-container -->
 {% include footer.html %}
 {% include scripts.html %}
 </body>

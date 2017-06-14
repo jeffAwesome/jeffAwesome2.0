@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Business Owners Guide To Using  Google Analytics"
-date:   2017-06-13 21:54:44 -0500
+date:   2017-06-13 9:54:44 -0500
 categories: blog
 tags: ['Google Analytics', 'Business Owner']
 ---
@@ -95,15 +95,15 @@ Now its time to “Add Filter to View”
 
 Here are details about each section on this Add Fiter to View form.
 
-** Choose a method to apply filter to view: **
+**Choose a method to apply filter to view:**
 
 Choose the “Create new Filter”.
 
-** Filter Name: **
+**Filter Name:**
 
 We are going to choose “Predefined”.
 
-** Filter Type: **
+**Filter Type:**
 
 We will call the filter “Exclude Employees”.
 
@@ -111,7 +111,7 @@ Beneath that we’ll do the following rules.
 
 “Exclude”  and  “traffic from the ip addresses” and “that are equal to”.
 
-** Ip Address: **
+**Ip Address:**
 
 And that’s it.  Click the “Save” button.
 
@@ -121,4 +121,4 @@ employees giving you a better picture of who is coming to your site.
 So that’s it for today. In our next Google Analytics post were going to cover how to setup goals and use a real
 world example of testing out a custom goal for users subscribing to our newsletter.
 
-Good luck and ** Be Awesome **.
+Good luck and **Be Awesome**.
