@@ -14,18 +14,27 @@ I may be old fashioned but paying for traffic just seemed...
 I ran several experiments. My $75 a day Adwords budgets yielded very
 little except for the dreaded bill.
 
+I've made all the mistakes you could make.
+
 Other people were having success, why wasn't I?
 ================================================
+4/5 competitors are using Adwords to get their message in front of
+your potential customers everyday. Those potential customers are 
+ready to buy.
 
+We've had clients with better websites, better products, better services
+losing out because they weren't using Adwords or weren't using it correctly.
 
 
 Will this email course really help my business?
 ================
 
 I already get enough email — do I really need more? 
+This course is going to help you on the right path to win back those
+customers you're losing right now.
 
-I've helped drive millions of qualified visitors to my clients
-through advertising and I'd like to share how to do that with you.
+Our clients have spent hundreds of thousands on their PPC click campaigns
+and they've turned to us to increase their performance month over month.
 
 
 
