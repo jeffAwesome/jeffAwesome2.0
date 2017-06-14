@@ -1,6 +1,6 @@
 ---
 layout: page
-title: How To Get More Customers
+title: How To Sell More Online
 permalink: /sell-more-stuff-online/
 ---
 
