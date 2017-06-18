@@ -7,14 +7,24 @@ tags: ['Google Analytics', 'Business Owner']
 ---
 
 
-A Success Story
+The American Cancer Society increased donations by 5.4% using Google Analytics
 ===================
 
-There is a story about a business owner who is able to track their incoming website visitors and use that information
-to actually generate qualified leads and eventually customers.  A story about a business owner who broke free from his
-competition by using content strategy and Google Analytics.  The story about a business who actually had a waiting
-list of customers.
+The American Cancer society realized they needed help in understanding how users interacted with their websites and applications.
+They knew they were being visited by different groups of peoplw with different needs, but it was a challenge for marketing
+to isolate their customer segements and to achieve the goals.
 
+Using the information from Google Analytics they determined they had 3 main different types of people coming to their site.
+
+* Info Seekers - People seeking cancer signs or symptoms.
+* Event Participants - People who want to take part in races, walks and other events to fight cancer.
+* Donors - People who want to donate money to help the fight against cancer.
+
+Based on this information they set up Goals, and Views. They were able to improve the content for each group and increase
+the engagement for each group. This information led to an increase in donations by 5.4%.
+
+Can you do this too?
+===================
 
 **If this sounds impossible, I want to assure you IT'S NOT…** but you’ll need to learn about using Google Analytics to better
 understand how your potential customers are using your website.
