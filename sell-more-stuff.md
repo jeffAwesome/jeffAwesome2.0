@@ -30,13 +30,11 @@ that can increase your performance immediately.
 Will this email course really help my business?
 ================
 
-I already get enough email — do I really need more? 
 This course is going to help you on the right path to win back those
 customers you're losing right now.
 
 Our clients have spent hundreds of thousands on their PPC click campaigns
 and they've turned to us to increase their performance month over month.
-
 
 
 Sign up below to join the **Free** email course on how to start selling more
