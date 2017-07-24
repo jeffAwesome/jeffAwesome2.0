@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Why isn't your website converting."
+title:  "Why isn't your website converting"
 date:   2017-07-23 9:54:44 -0500
 categories: blog
 tags: ['Website conversions', 'Business Owner', 'Website conversion advice']
